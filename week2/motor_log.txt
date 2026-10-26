@@ -1,0 +1,2 @@
+Motor 1: 100 RPM
+Motor 2: 150 RPM
